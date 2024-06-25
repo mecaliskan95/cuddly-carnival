@@ -23,8 +23,7 @@ np.random.seed(random_seed)
 
 # LOAD DATA
 
-#international_matches_df = pd.read_csv('/content/drive/MyDrive/international_matches.csv')
-international_matches_df = pd.read_csv('international_matches.csv')
+international_matches_df = pd.read_csv(r'C:\Users\mecal\OneDrive\Documents\cuddly-carnival\ML_project\international_matches.csv')
 
 # DATA PREPROCESSING
 
