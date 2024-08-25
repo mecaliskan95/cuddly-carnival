@@ -35,6 +35,5 @@ def find_and_delete_duplicates(folder_path):
 
 # Define the path to the folder you want to check for duplicates
 folder_path = "D:/Books/asd"
-
 # Call the function to find and delete duplicates
 find_and_delete_duplicates(folder_path)
