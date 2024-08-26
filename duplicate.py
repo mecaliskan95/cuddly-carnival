@@ -34,6 +34,6 @@ def find_and_delete_duplicates(folder_path):
                 os.remove(files[i])
 
 # Define the path to the folder you want to check for duplicates
-folder_path = "D:/Books/asd"
+folder_path = "E:"
 # Call the function to find and delete duplicates
 find_and_delete_duplicates(folder_path)
